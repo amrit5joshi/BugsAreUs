@@ -1,4 +1,4 @@
-# BugsForUs
+# BugsAreUs
 For all kind of bugs , there is one solution !!!  BUG ARE US !!!
 
 Create a table using following command:
